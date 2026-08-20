@@ -34,9 +34,4 @@ Or use the interactive menu (play, add people, view database, reset):
 python main_file.py --menu
 ```
 
-## Notes
 
-- Credentials are read from environment variables (via `.env`), never
-  hardcoded in source.
-- Sample data is loaded automatically the first time you run the game if
-  the database is empty.
